@@ -29,8 +29,6 @@ To start developing or running this project locally, follow these steps:
    npm run dev
    ```
 
-   ![image](https://github.com/fenilmodi00/GCCP-Jams/assets/85280060/75f262e7-da90-4a89-b966-67b3ade7746f)
-
    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Updating Data
@@ -68,9 +66,4 @@ That's it! Your project should now use the updated data.
 ## Contributors
 
 Contributions are welcome! 
-    <div>
-      <a href="https://github.com/GDSC-UVPCE/Google-Cloud-Study-Jams/graphs/contributors">
-        <br>
-        <img src="https://contrib.rocks/image?repo=GDSC-UVPCE/Google-Cloud-Study-Jams" />
-      </a>
-    </div>
+
